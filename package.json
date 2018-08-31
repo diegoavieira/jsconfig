@@ -1,0 +1,14 @@
+{
+  "name": "jsconfig",
+  "version": "1.0.0",
+  "description": "jsConfig - Basic configuration to JavaScript",
+  "main": "index.js",
+  "scripts": {
+  
+  },
+  "author": "Diego Adilson Vieira",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
