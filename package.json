@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "jsConfig - Basic configuration to JavaScript",
   "main": "index.js",
-  "scripts": {
-  
-  },
+  "scripts": {},
   "author": "Diego Adilson Vieira",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0"
   }
 }
