@@ -1,2 +1,2 @@
 # jsConfig
-Basic configuration to JavaScript
+Basic configuration for JavaScript

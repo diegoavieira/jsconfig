@@ -1,7 +1,7 @@
 {
   "name": "jsconfig",
   "version": "1.0.0",
-  "description": "jsConfig - Basic configuration to JavaScript",
+  "description": "jsConfig - Basic configuration for JavaScript",
   "main": "index.js",
   "scripts": {},
   "author": "Diego Adilson Vieira",
